@@ -1,0 +1,1 @@
+Enter value for nmax: start =      27, cycles =    111, max =      9232
