@@ -1,0 +1,3 @@
+Enter text: 
+Lines:      4
+Chars:    104
