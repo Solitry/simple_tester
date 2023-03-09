@@ -1,3 +1,4 @@
 Enter text: 
 Lines:      4
+Words:     20
 Chars:    104
