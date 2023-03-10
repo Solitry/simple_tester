@@ -1,0 +1,8 @@
+asdasd /* asdsad */
+/* //haha */
+/* asdasd
+//asdasd
+*/
+"/*here*/"
+"\"/**/"
+/* asdas */
